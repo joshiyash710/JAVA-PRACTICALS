@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Prcactical21",
+            "request": "launch",
+            "mainClass": "Prcactical21",
+            "projectName": "JAVA PRACTICALS_ba961cfd"
+        },
+        {
+            "type": "java",
+            "name": "Practical19",
+            "request": "launch",
+            "mainClass": "Practical19",
+            "projectName": "JAVA PRACTICALS_ba961cfd"
+        },
+        {
+            "type": "java",
+            "name": "Practical20",
+            "request": "launch",
+            "mainClass": "Practical20",
+            "projectName": "JAVA PRACTICALS_ba961cfd"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
