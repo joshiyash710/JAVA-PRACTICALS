@@ -53,7 +53,7 @@ class employee
     }
     
 }
-public class EmployeeTest {
+public class Practical13 {
     public static void main(String[] args) {
         employee e=new employee();
         employee e1=new employee();
