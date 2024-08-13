@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PriorityQueueDemo",
+            "request": "launch",
+            "mainClass": "PriorityQueueDemo",
+            "projectName": "JAVA_7166f981"
+        },
+        {
+            "type": "java",
+            "name": "DequeDemo",
+            "request": "launch",
+            "mainClass": "DequeDemo",
+            "projectName": "JAVA_7166f981"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList1",
+            "request": "launch",
+            "mainClass": "LinkedList1",
+            "projectName": "JAVA_7166f981"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "JAVA_7166f981"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList2",
+            "request": "launch",
+            "mainClass": "ArrayList2",
+            "projectName": "JAVA_7166f981"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList1",
+            "request": "launch",
+            "mainClass": "ArrayList1",
+            "projectName": "JAVA_7166f981"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList",
+            "projectName": "JAVA_7166f981"
+        },
+        {
+            "type": "java",
             "name": "Prcactical21",
             "request": "launch",
             "mainClass": "Prcactical21",
